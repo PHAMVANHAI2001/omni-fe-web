@@ -1,0 +1,491 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "url": "/blog"
+  },
+  {
+    "name": "category",
+    "path": "/category",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\category\\\\index.vue",
+    "chunkName": "pages/category/index",
+    "url": "/category"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "url": "/checkout"
+  },
+  {
+    "name": "comming-soon",
+    "path": "/comming-soon",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\comming-soon.vue",
+    "chunkName": "pages/comming-soon",
+    "url": "/comming-soon"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "url": "/contact"
+  },
+  {
+    "name": "deny",
+    "path": "/deny",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\deny.vue",
+    "chunkName": "pages/deny",
+    "url": "/deny"
+  },
+  {
+    "name": "forgot-pass",
+    "path": "/forgot-pass",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\forgot-pass.vue",
+    "chunkName": "pages/forgot-pass",
+    "url": "/forgot-pass"
+  },
+  {
+    "name": "landing-page",
+    "path": "/landing-page",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\landing-page\\\\index.vue",
+    "chunkName": "pages/landing-page/index",
+    "url": "/landing-page"
+  },
+  {
+    "name": "location-distributors",
+    "path": "/location-distributors",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\location-distributors\\\\index.vue",
+    "chunkName": "pages/location-distributors/index",
+    "url": "/location-distributors"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "url": "/login"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\product\\\\index.vue",
+    "chunkName": "pages/product/index",
+    "url": "/product"
+  },
+  {
+    "name": "promotion",
+    "path": "/promotion",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\promotion\\\\index.vue",
+    "chunkName": "pages/promotion/index",
+    "url": "/promotion"
+  },
+  {
+    "name": "quanly",
+    "path": "/quanly",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\quanly\\\\index.vue",
+    "chunkName": "pages/quanly/index",
+    "url": "/quanly"
+  },
+  {
+    "name": "question",
+    "path": "/question",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\question\\\\index.vue",
+    "chunkName": "pages/question/index",
+    "url": "/question"
+  },
+  {
+    "name": "ranking-bestseller",
+    "path": "/ranking-bestseller",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\ranking-bestseller\\\\index.vue",
+    "chunkName": "pages/ranking-bestseller/index",
+    "url": "/ranking-bestseller"
+  },
+  {
+    "name": "register-agent",
+    "path": "/register-agent",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\register-agent.vue",
+    "chunkName": "pages/register-agent",
+    "url": "/register-agent"
+  },
+  {
+    "name": "register-agent-nuti",
+    "path": "/register-agent-nuti",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\register-agent-nuti.vue",
+    "chunkName": "pages/register-agent-nuti",
+    "url": "/register-agent-nuti"
+  },
+  {
+    "name": "register-success",
+    "path": "/register-success",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\register-success.vue",
+    "chunkName": "pages/register-success",
+    "url": "/register-success"
+  },
+  {
+    "name": "sale-off",
+    "path": "/sale-off",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\sale-off.vue",
+    "chunkName": "pages/sale-off",
+    "url": "/sale-off"
+  },
+  {
+    "name": "scan-order",
+    "path": "/scan-order",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\scan-order.vue",
+    "chunkName": "pages/scan-order",
+    "url": "/scan-order"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "url": "/search"
+  },
+  {
+    "name": "supend-account",
+    "path": "/supend-account",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\supend-account.vue",
+    "chunkName": "pages/supend-account",
+    "url": "/supend-account"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "url": "/user"
+  },
+  {
+    "name": "user-rated-gallery",
+    "path": "/user-rated-gallery",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user-rated-gallery\\\\index.vue",
+    "chunkName": "pages/user-rated-gallery/index",
+    "url": "/user-rated-gallery"
+  },
+  {
+    "name": "about-history-of-formation-and-development",
+    "path": "/about/history-of-formation-and-development",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\about\\\\history-of-formation-and-development.vue",
+    "chunkName": "pages/about/history-of-formation-and-development",
+    "url": "/about/history-of-formation-and-development"
+  },
+  {
+    "name": "about-vision-and-mission",
+    "path": "/about/vision-and-mission",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\about\\\\vision-and-mission.vue",
+    "chunkName": "pages/about/vision-and-mission",
+    "url": "/about/vision-and-mission"
+  },
+  {
+    "name": "category-catchildren",
+    "path": "/category/catchildren",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\category\\\\catchildren.vue",
+    "chunkName": "pages/category/catchildren",
+    "url": "/category/catchildren"
+  },
+  {
+    "name": "checkout-cart",
+    "path": "/checkout/cart",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\cart.vue",
+    "chunkName": "pages/checkout/cart",
+    "url": "/checkout/cart"
+  },
+  {
+    "name": "checkout-checkout-payment",
+    "path": "/checkout/checkout-payment",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\checkout-payment.vue",
+    "chunkName": "pages/checkout/checkout-payment",
+    "url": "/checkout/checkout-payment"
+  },
+  {
+    "name": "checkout-confirm",
+    "path": "/checkout/confirm",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\confirm.vue",
+    "chunkName": "pages/checkout/confirm",
+    "url": "/checkout/confirm"
+  },
+  {
+    "name": "checkout-coupons",
+    "path": "/checkout/coupons",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\coupons.vue",
+    "chunkName": "pages/checkout/coupons",
+    "url": "/checkout/coupons"
+  },
+  {
+    "name": "checkout-paymentModal",
+    "path": "/checkout/paymentModal",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\paymentModal.vue",
+    "chunkName": "pages/checkout/paymentModal",
+    "url": "/checkout/paymentModal"
+  },
+  {
+    "name": "checkout-shipping",
+    "path": "/checkout/shipping",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\shipping.vue",
+    "chunkName": "pages/checkout/shipping",
+    "url": "/checkout/shipping"
+  },
+  {
+    "name": "checkout-shipping-unit",
+    "path": "/checkout/shipping-unit",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\shipping-unit.vue",
+    "chunkName": "pages/checkout/shipping-unit",
+    "url": "/checkout/shipping-unit"
+  },
+  {
+    "name": "checkout-shipping.bak",
+    "path": "/checkout/shipping.bak",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\shipping.bak.vue",
+    "chunkName": "pages/checkout/shipping.bak",
+    "url": "/checkout/shipping.bak"
+  },
+  {
+    "name": "checkout-transactionProcessor",
+    "path": "/checkout/transactionProcessor",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\transactionProcessor.vue",
+    "chunkName": "pages/checkout/transactionProcessor",
+    "url": "/checkout/transactionProcessor"
+  },
+  {
+    "name": "checkout-vpBankPayment",
+    "path": "/checkout/vpBankPayment",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\vpBankPayment.vue",
+    "chunkName": "pages/checkout/vpBankPayment",
+    "url": "/checkout/vpBankPayment"
+  },
+  {
+    "name": "product-flashsale",
+    "path": "/product/flashsale",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\product\\\\flashsale.vue",
+    "chunkName": "pages/product/flashsale",
+    "url": "/product/flashsale"
+  },
+  {
+    "name": "user-rated-gallery-rating",
+    "path": "/user-rated-gallery/rating",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user-rated-gallery\\\\rating\\\\index.vue",
+    "chunkName": "pages/user-rated-gallery/rating/index",
+    "url": "/user-rated-gallery/rating"
+  },
+  {
+    "name": "user-address",
+    "path": "/user/address",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\address\\\\index.vue",
+    "chunkName": "pages/user/address/index",
+    "url": "/user/address"
+  },
+  {
+    "name": "user-commission",
+    "path": "/user/commission",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\commission.vue",
+    "chunkName": "pages/user/commission",
+    "url": "/user/commission"
+  },
+  {
+    "name": "user-form",
+    "path": "/user/form",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\form.vue",
+    "chunkName": "pages/user/form",
+    "url": "/user/form"
+  },
+  {
+    "name": "user-locations",
+    "path": "/user/locations",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\locations\\\\index.vue",
+    "chunkName": "pages/user/locations/index",
+    "url": "/user/locations"
+  },
+  {
+    "name": "user-menu-mobile",
+    "path": "/user/menu-mobile",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\menu-mobile.vue",
+    "chunkName": "pages/user/menu-mobile",
+    "url": "/user/menu-mobile"
+  },
+  {
+    "name": "user-notification",
+    "path": "/user/notification",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\notification.vue",
+    "chunkName": "pages/user/notification",
+    "url": "/user/notification"
+  },
+  {
+    "name": "user-order",
+    "path": "/user/order",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\order\\\\index.vue",
+    "chunkName": "pages/user/order/index",
+    "url": "/user/order"
+  },
+  {
+    "name": "user-order-status",
+    "path": "/user/order-status",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\order-status.vue",
+    "chunkName": "pages/user/order-status",
+    "url": "/user/order-status"
+  },
+  {
+    "name": "user-policy",
+    "path": "/user/policy",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\policy.vue",
+    "chunkName": "pages/user/policy",
+    "url": "/user/policy"
+  },
+  {
+    "name": "user-products-purchased",
+    "path": "/user/products-purchased",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\products-purchased.vue",
+    "chunkName": "pages/user/products-purchased",
+    "url": "/user/products-purchased"
+  },
+  {
+    "name": "user-profile",
+    "path": "/user/profile",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\profile.vue",
+    "chunkName": "pages/user/profile",
+    "url": "/user/profile"
+  },
+  {
+    "name": "user-referral",
+    "path": "/user/referral",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\referral.vue",
+    "chunkName": "pages/user/referral",
+    "url": "/user/referral"
+  },
+  {
+    "name": "user-shipper",
+    "path": "/user/shipper",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\shipper\\\\index.vue",
+    "chunkName": "pages/user/shipper/index",
+    "url": "/user/shipper"
+  },
+  {
+    "name": "user-transactions",
+    "path": "/user/transactions",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\transactions.vue",
+    "chunkName": "pages/user/transactions",
+    "url": "/user/transactions"
+  },
+  {
+    "name": "user-update-profile",
+    "path": "/user/update-profile",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\update-profile.vue",
+    "chunkName": "pages/user/update-profile",
+    "url": "/user/update-profile"
+  },
+  {
+    "name": "user-wishlist",
+    "path": "/user/wishlist",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\wishlist.vue",
+    "chunkName": "pages/user/wishlist",
+    "url": "/user/wishlist"
+  },
+  {
+    "name": "user-order-check-order",
+    "path": "/user/order/check-order",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\order\\\\check-order.vue",
+    "chunkName": "pages/user/order/check-order",
+    "url": "/user/order/check-order"
+  },
+  {
+    "name": "blog-post-id",
+    "path": "/blog/post/:id?",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\blog\\\\post\\\\_id.vue",
+    "chunkName": "pages/blog/post/_id"
+  },
+  {
+    "name": "checkout-repayment-id",
+    "path": "/checkout/repayment/:id?",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\checkout\\\\repayment\\\\_id.vue",
+    "chunkName": "pages/checkout/repayment/_id"
+  },
+  {
+    "name": "user-rated-gallery-rating-id",
+    "path": "/user-rated-gallery/rating/:id?",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user-rated-gallery\\\\rating\\\\_id.vue",
+    "chunkName": "pages/user-rated-gallery/rating/_id"
+  },
+  {
+    "name": "user-locations-id",
+    "path": "/user/locations/:id",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\locations\\\\_id.vue",
+    "chunkName": "pages/user/locations/_id"
+  },
+  {
+    "name": "user-order-id",
+    "path": "/user/order/:id",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\order\\\\_id.vue",
+    "chunkName": "pages/user/order/_id"
+  },
+  {
+    "name": "user-shipper-id",
+    "path": "/user/shipper/:id",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user\\\\shipper\\\\_id.vue",
+    "chunkName": "pages/user/shipper/_id"
+  },
+  {
+    "name": "category-cat",
+    "path": "/category/:cat",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\category\\\\_cat.vue",
+    "chunkName": "pages/category/_cat"
+  },
+  {
+    "name": "information-code",
+    "path": "/information/:code?",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\information\\\\_code.vue",
+    "chunkName": "pages/information/_code"
+  },
+  {
+    "name": "information-id",
+    "path": "/information/:id?",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\information\\\\_id.vue",
+    "chunkName": "pages/information/_id"
+  },
+  {
+    "name": "landing-page-id",
+    "path": "/landing-page/:id?",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\landing-page\\\\_id.vue",
+    "chunkName": "pages/landing-page/_id"
+  },
+  {
+    "name": "page-slug",
+    "path": "/page/:slug?",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\page\\\\_slug.vue",
+    "chunkName": "pages/page/_slug"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id"
+  },
+  {
+    "name": "promotion-id",
+    "path": "/promotion/:id",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\promotion\\\\_id.vue",
+    "chunkName": "pages/promotion/_id"
+  },
+  {
+    "name": "question-id",
+    "path": "/question/:id",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\question\\\\_id.vue",
+    "chunkName": "pages/question/_id"
+  },
+  {
+    "name": "user-rated-gallery-id",
+    "path": "/user-rated-gallery/:id",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\user-rated-gallery\\\\_id.vue",
+    "chunkName": "pages/user-rated-gallery/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Tien-Phong-CDS\\\\mutosi\\\\omni-fe-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/"
+  }
+]

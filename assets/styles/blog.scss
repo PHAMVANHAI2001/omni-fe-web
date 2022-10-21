@@ -1,0 +1,18 @@
+.list-news-cates{
+  list-style: none;
+  li{
+    padding: 10px;
+    background: #fff;
+    margin-bottom: 10px;
+    .wrap-thumb{
+      width: 20%;
+      padding-right: 10px;
+      float: left;
+    }
+    h4{
+      font-size: 1.3rem;
+      margin-top: 5px;
+      margin-bottom: 8px;
+    }
+  }
+}

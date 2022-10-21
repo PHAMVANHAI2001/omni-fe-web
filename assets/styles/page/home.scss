@@ -1,0 +1,28 @@
+.product-categories_home{
+    li{
+        width: 25%;
+        position: relative;
+        float: left;
+        list-style: none;
+        border: 1px solid rgba(243, 243, 243, 0.418);
+        .cat-thum{
+            display: block;;
+        }
+        .cat-title-overlay{
+            z-index: 999;
+            position: absolute;
+            left: 10px;
+            bottom: 10px;
+            a{
+                display: inline-block;
+                padding: 10px 33px;
+                border-radius: 5px;
+                color: #fff;
+                background: #FFE000;
+                background: -webkit-linear-gradient(to right, #799F0C, #FFE000);
+                background: linear-gradient(to right, #799F0C, #FFE000);
+            }
+        }
+
+    }
+}

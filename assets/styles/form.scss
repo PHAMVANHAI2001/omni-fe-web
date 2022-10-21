@@ -1,0 +1,35 @@
+.form-group--error{
+    select,
+    textarea,
+    input.form-control{
+    border: 1px solid rgb(202, 19, 19);
+    }
+} 
+.error-message{
+    color: rgb(202, 19, 19);
+    text-align: right;
+    margin-right: 15px;
+}
+.form-address-shiping{
+    p{
+        margin: 0 auto;
+        font-size: 0.8em;
+    }
+    .btn-checkout{
+        text-align: center;
+        button{
+            a{
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+    
+}
+.payment-method{
+    input{
+        border: 0;
+        border-bottom: 2px solid #ced4da;
+        border-radius: 0;
+    }
+}

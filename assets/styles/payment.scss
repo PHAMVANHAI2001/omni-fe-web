@@ -1,0 +1,51 @@
+.payment-method{
+    margin: 50px 0;
+    .form-check{
+        padding: 10px;
+    }
+    .visa-info{
+        padding: 20px 0;
+    }
+    col{
+        padding: 0;
+    }
+}
+.form-right{
+    label{
+        color: $color-label;
+    }
+    button{
+        border-radius: 50px;
+        border-radius: 50px;
+        padding: 0px 20px;
+        background-color: $color-label;
+    }
+    .form-group{
+        margin-bottom: 0; 
+        padding: 25px 0;
+    }
+}
+.confirm-checkbox{
+    p{
+        padding: 0;
+    }
+}
+.invoice-information{
+    padding: 20px 0;
+}
+.buyer-information{
+    padding: 20px 0;
+    p{
+        margin: 10px 0;
+        font-size: 0.9em;
+    }
+}
+.btn-checkout {
+    text-align: center;
+   
+}
+.ATM-item{
+    ul{
+        list-style: none;
+    }
+}

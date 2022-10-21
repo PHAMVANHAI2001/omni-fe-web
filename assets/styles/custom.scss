@@ -1,0 +1,26 @@
+.VueCarousel-dot-container {
+  button {
+    margin-top: 0 !important;
+  }
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: -5px;
+}
+.poniter-clss {
+  cursor: pointer;
+}
+.phone {
+  font-size: 2.5rem;
+}
+@media (min-width: 1600px) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    max-width: 1200px;
+  }
+}

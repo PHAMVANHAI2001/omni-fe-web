@@ -1,0 +1,119 @@
+.shopping-cart {
+  padding: 10px 0;
+  max-width: 800px;
+  margin: 20px auto;
+  .total {
+  }
+  h3 {
+    padding: 10px 0;
+    font-size: 1.5em;
+    font-weight: 600;
+    span {
+      font-weight: 300;
+      font-size: 0.8em;
+    }
+  }
+  .cart-item {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 5px;
+    &:last-child{
+      border-bottom: none !important;
+    }
+    h4 {
+      font-size: 1rem;
+    }
+    .img-thumbnail{
+      border: 1px solid #f7f7f7;
+    }
+    .price {
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+    .discount {
+      .price-discount {
+        font-size: 0.9em;
+        text-decoration: line-through;
+        color: #89898a;
+        float: left;
+        margin: 5px;
+      }
+      span {
+        float: left;
+      }
+    }
+    .input-group {
+      input {
+        text-align: center;
+      }
+    }
+  }
+  .list-group {
+    .list-group-item:nth-child(0) {
+      border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    }
+    .list-group-item {
+      font-weight: 400;
+      h3 {
+        padding: 0;
+        font-size: 1.2em;
+        font-weight: 400;
+        color: #fe3834;
+        float: right;
+      }
+      p {
+        color: #89898a;
+        font-size: 0.9em;
+      }
+    }
+  }
+}
+.cart-mobile {
+  .cart-item h4 {
+    font-size: 0.7rem;
+  }
+  .col-4 {
+    text-align: center;
+  }
+}
+
+.list-group-item.promotion_total{
+  color: rgb(160, 21, 21);
+}
+
+.promotion-info-ponint{
+  background: #fdf9f9;
+  padding: 5px 10px 0px 10px;
+  border: 1px solid #fbfbfb;
+  border-radius: 5px;
+  margin: 5px 0;
+  h6{
+    font-size: 0.9rem;
+    color: #9a3504;
+  }
+}
+
+.delete-cart-item{
+  color: #9c9c9c !important;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0px 11px 0px 0px;
+  float: right;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.qty-update-group{
+  width: 110px;
+  // margin: 4px -41px 0px 22px;
+}
+.heart-wishlist{
+  margin: 4px 0px 0px 0px;
+}
+
+.block-style-style-2-sub{
+  font-size: 1.1rem;
+}
+.cart-total{
+  font-size: 1rem;
+  margin-top: 10px;
+}

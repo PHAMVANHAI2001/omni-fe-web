@@ -1,0 +1,17 @@
+#customer-page {
+    .carousel-inner {
+        padding: 5px 20px;
+    }
+    .carousel-indicators li {
+        background-color: #925e5e;
+    }
+    .certificate{
+        img{
+            width: auto !important;
+            max-width: 100%;
+        }
+        .col{
+            text-align: center;
+        }
+    }
+}

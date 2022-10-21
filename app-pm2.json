@@ -1,0 +1,9 @@
+{
+   "apps": [
+      {
+         "name": "NutifoodShop.com",
+         "script": "npm",
+         "args": "start"
+      }
+   ]
+}
